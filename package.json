@@ -19,6 +19,7 @@
   "dependencies": {
     "clsx": "1.2.1",
     "concurrently": "7.5.0",
+    "lit-js-sdk": "1.1.234",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
