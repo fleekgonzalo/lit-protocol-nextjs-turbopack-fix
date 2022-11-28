@@ -4,6 +4,7 @@
     "dev": "next dev --turbo",
     "dev:tailwind": "concurrently \"next dev --turbo\" \"npm run tailwind -- --watch\"",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint",
     "tailwind": "tailwindcss -i styles/globals.css -o styles/dist.css",
